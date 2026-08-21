@@ -10,19 +10,27 @@ This repository contains Jupyter notebooks with exercises covering fundamental c
 
 The notebooks are organized by chapter and follow the naming convention:
 
-```text
+```text id="1g3j8v"
 chapter-<number>-exercises.ipynb
+```
+
+When a chapter's exercises are divided into multiple parts, the following naming convention is used:
+
+```text id="x6q2fm"
+chapter-<number>-exercises-part-1.ipynb
+chapter-<number>-exercises-part-2.ipynb
 ```
 
 For example:
 
-```text
-chapter-03-exercises.ipynb
+```text id="0n2p5s"
+chapter-02-exercises.ipynb
+chapter-03-exercises-part-1.ipynb
+chapter-03-exercises-part-2.ipynb
 chapter-04-exercises.ipynb
-chapter-05-exercises.ipynb
 ```
 
-Chapters without exercises are not included in the repository.
+Chapter 1 contains no exercises and is therefore not included as an exercise notebook.
 
 ## Topics
 

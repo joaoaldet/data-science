@@ -4,33 +4,37 @@ Exercises and practical activities developed throughout the study of Data Scienc
 
 ## About
 
-This repository contains notebooks covering fundamental concepts and techniques in data science. The activities are organized according to their respective chapters.
+This repository contains Jupyter notebooks with exercises covering fundamental concepts and techniques in data science. Each notebook includes the implemented solutions and their respective outputs.
 
 ## Structure
 
-Notebooks follow a chapter-based naming convention:
+The notebooks are organized by chapter and follow the naming convention:
 
 ```text
-data-science/
-├── chapter-03-exercises.ipynb
-├── chapter-04.ipynb
-├── ...
-└── README.md
+chapter-<number>-exercises.ipynb
 ```
 
-The `-exercises` suffix identifies notebooks containing exercises for a specific chapter.
+For example:
+
+```text
+chapter-03-exercises.ipynb
+chapter-04-exercises.ipynb
+chapter-05-exercises.ipynb
+```
+
+Chapters without exercises are not included in the repository.
 
 ## Topics
 
-The repository may cover topics such as:
+The exercises cover concepts such as:
 
-* Data manipulation and analysis
+* Data manipulation
+* Lists and dictionaries
+* Data analysis
 * Data visualization
 * Statistical concepts
-* Data preprocessing
-* Exploratory data analysis
-* Machine learning fundamentals
+* Data processing
 
 ## Purpose
 
-This repository serves as a record of my progress and learning throughout the study of Data Science.
+This repository serves as a record of my exercises, solutions, and progress throughout the study of Data Science.
